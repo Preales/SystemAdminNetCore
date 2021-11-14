@@ -1,0 +1,16 @@
+N
+EE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Base\BaseConfig.csutf-8\
+SE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Configurations\EmployeeConfig.csutf-8X
+OE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Configurations\UserConfig.csutf-8F
+=E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Context.csutf-8J
+AE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Data\SeedDb.csutf-8i
+`E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Migrations\20210305114252_InitialMigration.csutf-8t
+iE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Migrations\20210305114252_InitialMigration.Designer.csutf-8`
+UE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Migrations\ContextModelSnapshot.csutf-8\
+SE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Repository\EmployeeRepository.csutf-8[
+RE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Repository\GenericRepository.csutf-8\
+SE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Repository\IGenericRepository.csutf-8U
+LE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Repository\IUnitOfWork.csutf-8T
+KE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\Repository\UnitOfWork.csutf-8}
+rE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8o
+dE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Repo\obj\Debug\net5.0\SystemAdmin.Repo.AssemblyInfo.csutf-8

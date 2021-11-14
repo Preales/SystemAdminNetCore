@@ -1,0 +1,9 @@
+O
+FE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Base\ModelBase.csutf-8T
+KE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Helpers\ApiResponse.csutf-8X
+OE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Models\DTOs\EmployeeDto.csutf-8P
+GE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Models\Employee.csutf-8L
+CE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Models\User.csutf-8T
+KE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\Settings\JwtSetting.csutf-8ˆ
+}E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8{
+pE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Common\obj\Debug\netstandard2.1\SystemAdmin.Common.AssemblyInfo.csutf-8

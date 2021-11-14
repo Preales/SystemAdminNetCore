@@ -1,0 +1,13 @@
+X
+OE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Controllers\EmployeeController.csutf-8T
+KE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Controllers\UserController.csutf-8_
+VE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Controllers\WeatherForecastController.csutf-8M
+DE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Helpers\AutoMapping.csutf-8^
+UE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\HostedServices\MigratorHostedService.csutf-8J
+AE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Models\UserModel.csutf-8A
+8E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Program.csutf-8A
+8E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\Startup.csutf-8I
+@E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\WeatherForecast.csutf-8x
+mE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8e
+ZE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\obj\Debug\net5.0\SystemAdmin.AssemblyInfo.csutf-8x
+mE:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin\obj\Debug\net5.0\SystemAdmin.MvcApplicationPartsAssemblyInfo.csutf-8

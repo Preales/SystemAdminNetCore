@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>SystemAdmin.Services</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>b0adc0da-b8fc-47d6-9484-ab2fbb17f9bc</ProjectGuid>
+  <FullPath>E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Services\SystemAdmin.Services.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="E:\Proyecto\C#\Prueba\SystemAdmin\.sonarqube\conf\6\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Services\bin\Debug\net5.0\SystemAdmin.Services.dll.RoslynCA.json|E:\Proyecto\C#\Prueba\SystemAdmin\SystemAdmin.Services\bin\Debug\net5.0\SystemAdmin.Services.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">E:\Proyecto\C#\Prueba\SystemAdmin\.sonarqube\out\6</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>
